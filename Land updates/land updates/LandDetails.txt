@@ -1,0 +1,6 @@
+401 Pokhara West 7 45000 Available
+402 Chitwan North 9 55000 Available
+403 Kathmandu East 5 35000 Available
+404 Mustang South 5 56000 Available
+405 Gorkha North 6 49000 Available
+406 Dolpa East 4 39000 Available
